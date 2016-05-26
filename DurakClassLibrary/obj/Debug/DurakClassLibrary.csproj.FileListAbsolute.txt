@@ -1,0 +1,20 @@
+C:\Users\Nathan\Documents\Year2\SEMESTER 2\OOP III\Durak\DurakClassLibrary\DurakClassLibrary\obj\Debug\DurakClassLibrary.dll
+C:\Users\Nathan\Documents\Year2\SEMESTER 2\OOP III\Durak\DurakClassLibrary\DurakClassLibrary\bin\Debug\DurakClassLibrary.dll
+C:\Users\Nathan\Documents\Year2\SEMESTER 2\OOP III\Durak\DurakClassLibrary\DurakClassLibrary\bin\Debug\DurakClassLibrary.pdb
+C:\Users\Nathan\Documents\Year2\SEMESTER 2\OOP III\Durak\DurakClassLibrary\DurakClassLibrary\obj\Debug\DurakClassLibrary.Properties.Resources.resources
+C:\Users\Nathan\Documents\Year2\SEMESTER 2\OOP III\Durak\DurakClassLibrary\DurakClassLibrary\obj\Debug\DurakClassLibrary.csproj.GenerateResource.Cache
+C:\Users\Nathan\Documents\Year2\SEMESTER 2\OOP III\Durak\DurakClassLibrary\DurakClassLibrary\obj\Debug\DurakClassLibrary.pdb
+C:\Users\Nathan\Documents\Year2\SEMESTER 2\OOP III\Durak\DurakClassLibrary\DurakClassLibrary\obj\Debug\DurakClassLibrary.csprojResolveAssemblyReference.cache
+F:\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\bin\Debug\DurakClassLibrary.dll
+F:\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\bin\Debug\DurakClassLibrary.pdb
+F:\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\obj\Debug\DurakClassLibrary.Properties.Resources.resources
+F:\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\obj\Debug\DurakClassLibrary.csproj.GenerateResource.Cache
+F:\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\obj\Debug\DurakClassLibrary.dll
+F:\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\obj\Debug\DurakClassLibrary.pdb
+C:\Users\Nathan\Documents\Year2\SEMESTER 2\OOP III\Durak\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\bin\Debug\DurakClassLibrary.dll
+C:\Users\Nathan\Documents\Year2\SEMESTER 2\OOP III\Durak\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\bin\Debug\DurakClassLibrary.pdb
+C:\Users\Nathan\Documents\Year2\SEMESTER 2\OOP III\Durak\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\obj\Debug\DurakClassLibrary.Properties.Resources.resources
+C:\Users\Nathan\Documents\Year2\SEMESTER 2\OOP III\Durak\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\obj\Debug\DurakClassLibrary.csproj.GenerateResource.Cache
+C:\Users\Nathan\Documents\Year2\SEMESTER 2\OOP III\Durak\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\obj\Debug\DurakClassLibrary.dll
+C:\Users\Nathan\Documents\Year2\SEMESTER 2\OOP III\Durak\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\obj\Debug\DurakClassLibrary.pdb
+C:\Users\Nathan\Documents\Year2\SEMESTER 2\OOP III\Durak\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\DurakClassLibrary\obj\Debug\DurakClassLibrary.csprojResolveAssemblyReference.cache
